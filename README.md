@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Тамерлан</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Middle+Backend+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Backend+Engineer" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Мой стек технологий</h3>
