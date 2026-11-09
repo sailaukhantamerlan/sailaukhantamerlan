@@ -1,12 +1,10 @@
 <h1 align="center">Welcome to my Profile</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&color=2CA5E0&center=true&vCenter=true&width=600&lines=NestJS+Developer" alt="Static SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&color=2CA5E0&center=true&vCenter=true&width=600&=NestJS+Developer" alt="Static SVG" />
 </div>
 
 <br>
-
-<h3 align="center">My technology stack</h3>
 
 <p align="center">
   <b>Backend Development</b><br><br>
