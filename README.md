@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Profile</h1>
 
 <div align="center">
-  <p style="color: #2CA5E0; font-size: 22px; font-family: 'Fira Code', monospace; font-weight: 500; margin: 0;">NestJS Developer</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=1&pause=9999999&color=2CA5E0&center=true&vCenter=true&width=600&lines=NestJS+Developer" alt="NestJS Developer" />
 </div>
 
 <br>
